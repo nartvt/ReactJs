@@ -1,0 +1,12 @@
+[submodule "testing-online"]
+	path = testing-online
+	url = https://github.com/tranvantai0011/testing-online.git
+[submodule "elearning"]
+	path = elearning
+	url = git@github.com:tranvantai0011/elearning.git
+[submodule "dressing-room"]
+	path = dressing-room
+	url = https://github.com/tranvantai0011/dressing-room.git
+[submodule "react-unit-one"]
+	path = react-unit-one
+	url = https://github.com/tranvantai0011/react-unit-one.git
