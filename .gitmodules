@@ -10,3 +10,6 @@
 [submodule "react-unit-one"]
 	path = react-unit-one
 	url = https://github.com/tranvantai0011/react-unit-one.git
+[submodule "pocker-game-react"]
+	path = pocker-game-react
+	url = git@github.com:tranvantai0011/pocker-game-react.git
